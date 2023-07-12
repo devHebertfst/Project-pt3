@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -rdynamic CMakeFiles/program.dir/src/main.cpp.o CMakeFiles/program.dir/src/usuario.cpp.o CMakeFiles/program.dir/src/servidor.cpp.o CMakeFiles/program.dir/src/gerenciador.cpp.o CMakeFiles/program.dir/src/sistema.cpp.o CMakeFiles/program.dir/src/canal.cpp.o CMakeFiles/program.dir/src/mensagem.cpp.o -o program 

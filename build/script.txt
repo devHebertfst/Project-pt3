@@ -1,0 +1,68 @@
+create-user miles@gmail.com 1245 Miles Morales
+create-user miles@gmail.com 145 Miguel ohara
+create-user user@gmail.com
+login miles@gmail.com 1245 12
+login miles@gmail.com
+login miles@gmail.com 1245
+create-server Aranhas 123
+create-server Aranhas
+list-servers 123
+list-servers
+set-server-desc Aranhas Este servidor serve como minha casa, sempre estarei nele
+set-server-invite-code Aranhas 1234 1232
+set-server-invite-code Aranhas
+set-server-invite-code Aranhas 1234
+enter-server Aranhas
+create-channel Cabeças de teia texto
+create-channel Cabeças-de-teia podcast
+create-channel Cabeças-de-teia podcast video
+create-channel Cabeças-de-teia texto
+create-channel avisos voz
+create-channel terapia texto
+list-channels
+enter-channel Cabeças-de-teias
+enter-channel Cabeças-de-teia
+list-messages
+send-message Eae qual o vilão pra esse final de semana?
+list-messages
+list-participants
+leave-channel
+enter-channel avisos
+send-message Vingadores estao a procura de estagiarios
+list-messages
+leave-channel
+leave-server
+disconnect
+disconnect
+create-user peter@gmail.com 4567 Peter Parker
+login peter@gmail.com 4567
+list-servers
+enter-server Aranhas
+enter-server Aranhas 12345
+enter-server Aranhas 1234
+list-participants
+list-channels
+enter-channel avisos
+list-messages
+send-message Todos convidados para o meu aniversario
+list-messages
+leave-channel asd
+leave-channel
+enter-channel Cabeças-de-teia
+list-messages
+leave-server
+send-message to de folga
+list-messages
+leave-channel
+leave-server
+leave-server
+enter-server Aranhas
+list-participants
+leave-server
+create-server amigos
+list-servers
+list-servers
+disconnect
+login miles@gmail.com 1245
+list-servers
+quit
